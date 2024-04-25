@@ -6,4 +6,4 @@ Threats in the bottom are just a simple example. The idea is that each company m
 
 ![image](https://github.com/rudneir2/msft_cloud_security_diagram_v3/assets/97529152/77f82179-741e-4d58-8e21-2a61e95c916c)
 
-in the left of the diagram, it is an example of a Ransomware attack in simple steps. This exercise allows to understand how different solutions may be used to mitigate and/or avoid a ransomware attack.
+in the left of the diagram, it is an example of a Ransomware attack in simple steps. This exercise allows to understand how different solutions may be used to mitigate and/or avoid a ransomware attack!
